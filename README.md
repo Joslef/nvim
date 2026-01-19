@@ -80,7 +80,7 @@ This configuration includes tweaked keymaps (more to come!)
 
 ## 📦 Dependencies
 
-All plugins are managed through LazyVim's plugin manager. The following are the core additions:
+All plugins are managed through [LazyVim's plugin manager](https://github.com/folke/lazy.nvim)
 
 - [Catppuccin/nvim](https://github.com/catppuccin/nvim) - Color scheme
 - [mikavilpas/yazi.nvim](https://github.com/mikavilpas/yazi.nvim) - File manager
